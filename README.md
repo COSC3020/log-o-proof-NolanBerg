@@ -24,7 +24,7 @@ $T(n) \leq c_1 \cdot \frac{\log_5 n}{\log_5 2}: \forall n \geq n_0$
 
 Let $c_2 = \frac{c_1}{\log_5 2}$, then we have:
 
-$T(n) \leq c_2 \log_5 n: \forall n \geq n_0 
+$T(n) \leq c_2 \log_5 n: \forall n \geq n_0$
 
 
 
