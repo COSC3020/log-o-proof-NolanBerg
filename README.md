@@ -26,6 +26,12 @@ Let $c_2 = \frac{c_1}{\log_5 2}$, then we have:
 
 $T(n) \leq c_2 \log_5 n: \forall n \geq n_0$
 
+Given $T(n) \in O(\log_5 n)$, by the definition of Big O notation, there exist constants $c_3$ and $n_1$ such that:
+
+$T(n) \leq c_3 \log_5 n: \forall n \geq n_1 
+
+
+ 
 
 
 
