@@ -30,6 +30,10 @@ Given $T(n) \in O(\log_5 n)$, by the definition of Big O notation, there exist c
 
 $T(n) \leq c_3 \log_5 n: \forall n \geq n_1$
 
+Now, let's rewrite $\log_5 n$ in terms of $\log_2 n$. We know that $\log_5 n = \frac{\log_2 n}{\log_2 5}$.
+
+$T(n) \leq c_3 \frac{\log_2 n}{\log_2 5}: \forall n \geq n_1$
+
 
  
 
