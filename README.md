@@ -35,11 +35,11 @@ Let $c_4 = c_3 \log_2 5$, then we have:
 
 $T(n) \leq c_4 \log_2 n: \forall n \geq n_1$
 
-Thus, $T(n) \in O(\log_2 n)$.
+So $T(n) \in O(\log_2 n)$.
 
 Therefore, we have shown that $O(\log_2 n)$ is the same as $O(\log_5 n)$.
 
-$T(n) \leq c_3 \frac{\log_2 n}{\log_2 5}: \forall n \geq n_1$
+
 
 
  
