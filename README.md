@@ -37,7 +37,7 @@ $T(n) \leq c_4 \log_2 n: \forall n \geq n_1$
 
 So $T(n) \in O(\log_2 n)$.
 
-Therefore, we have shown that $O(\log_2 n)$ is the same as $O(\log_5 n)$.
+Therefore, $O(\log_2 n)$ is the same as $O(\log_5 n)$.
 
 
 
