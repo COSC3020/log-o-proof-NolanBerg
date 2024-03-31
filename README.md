@@ -29,7 +29,7 @@ Given $T(n) \in O(\log_5 n)$ we know there exist constants $c_3$ and $n_1$ such 
 
 $T(n) \leq c_3 \log_5 n: \forall n \geq n_1$
 
-Now, let's rewrite $\log_5 n$ in terms of $\log_2 n$. We know that $\log_5 n = \frac{\log_2 n}{\log_2 5}$.
+Rewrite $\log_5 n$ in terms of $\log_2 n$. We know that $\log_5 n = \frac{\log_2 n}{\log_2 5}$.
 
 Let $c_4 = c_3 \log_2 5$, then we have:
 
