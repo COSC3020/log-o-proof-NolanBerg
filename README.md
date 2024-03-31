@@ -18,7 +18,7 @@ Given $T(n) \in O(\log_2 n)$, by the definition of Big O notation, there exist c
 
 $T(n) \leq c_1 \log_2 n: \forall n \geq n_0$
 
-Rewrite $\log_2 n$ in terms of $\log_5 n$. We know that $\log_2 n = \frac{\log_5 n}{\log_5 2}$.
+Rewrite $\log_2 n$ in terms of $\log_5 n$. 
 
 $T(n) \leq c_1 \cdot \frac{\log_5 n}{\log_5 2}: \forall n \geq n_0$
 
