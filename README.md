@@ -39,6 +39,8 @@ So $T(n) \in O(\log_2 n)$.
 
 Therefore, $O(\log_2 n)$ is the same as $O(\log_5 n)$.
 
+Sources: Used google for the definitions of proof
+
 
 
 
